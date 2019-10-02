@@ -1,0 +1,17 @@
+[[TVM]]
+arch = "x86_64"
+git-tree-sha1 = "8fadffa2111b82136770952ebece210ef7cfb8c7"
+os = "macos"
+
+    [[TVM.download]]
+    sha256 = "18a5a1ae82257dff501df091f39a997acc91f0df2214110faf90ebeb1f11a3c0"
+    url = "https://github.com/JuliaBinaryWrappers/TVM_jll.jl/releases/download/TVM-v0.5.0+0/TVM.v0.5.0.x86_64-apple-darwin14.tar.gz"
+[[TVM]]
+arch = "x86_64"
+git-tree-sha1 = "23d2e4e3a4d05b02b1798dc9bf7214cab1c1f7b2"
+libc = "glibc"
+os = "linux"
+
+    [[TVM.download]]
+    sha256 = "804b7d1a7de9ffdcdb21d43f06b0d231523acfa0c39186f011c0b10c0eb80efa"
+    url = "https://github.com/JuliaBinaryWrappers/TVM_jll.jl/releases/download/TVM-v0.5.0+0/TVM.v0.5.0.x86_64-linux-gnu.tar.gz"
